@@ -2,6 +2,11 @@
 models/
 change-it/
 
+# Azure ML
+*.amtmp
+*.amlignore*
+*.azureml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
