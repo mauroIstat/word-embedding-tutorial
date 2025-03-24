@@ -59,9 +59,9 @@ The `requirements.txt` file includes the following libraries:
 - numpy
 - scikit-learn
 - gensim
-- spacy
 - matplotlib
 - pyLDAvis
+- bertopic
 
 ### Additional Resources
 
