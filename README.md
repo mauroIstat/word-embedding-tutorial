@@ -1,6 +1,31 @@
+<h1 align="center">
+  Topic Modeling Lab
+</h1>
+<div align="center">
+  <a href="">![Static Badge](https://img.shields.io/badge/Word2Vec-blue)</a>
+  <a href="">![Static Badge](https://img.shields.io/badge/Glove-green)</a>
+  <a href="">![Static Badge](https://img.shields.io/badge/LDA-red)</a>
+  <a href="">![Static Badge](https://img.shields.io/badge/BERTopic-yellow)</a>
+  
+</div>
 
-# Word Embedding Tutorial - Topic Modeling
+<p align="center">
+  A review of the most popular topic modeling techniques.
+</p>
 
+<div align="center">
+  <a href="https://www.researchgate.net/profile/Mauro-Bruno-2">
+    <img src="https://img.shields.io/badge/Mauro%20Bruno-white?logo=researchgate" alt="Mauro Bruno">
+  </a>
+  <a href="https://www.researchgate.net/profile/Elena-Catanese-2">
+    <img src="https://img.shields.io/badge/Elena%20Catanese-white?logo=researchgate" alt="Elena Catanese">
+  </a>
+  <a href="https://www.researchgate.net/profile/Francesco-Ortame-3">
+    <img src="https://img.shields.io/badge/Francesco%20Ortame-white?logo=researchgate" alt="Francesco Ortame">
+  </a>
+</div>
+
+---
 This repository contains the code for hands-on sessions related to topic modeling. It is designed to help you understand the concepts and implementations of topic modeling techniques, including but not limited to LDA (Latent Dirichlet Allocation) and more advanced approaches based on word embeddings.
 
 ## Prerequisites
@@ -53,9 +78,10 @@ To run the notebooks or scripts for topic modeling:
 
 ## File Structure
 
-- `notebooks/`: Jupyter Notebooks with step-by-step tutorials.
-- `scripts/`: Python scripts implementing various topic modeling algorithms.
 - `data/`: Sample datasets used for the tutorial.
+- `papers/`: Papers on Wordembedding techniques (Word2Vec & Glove).
+- `resources/`: An extended list of Italian stopword and the Italian .pickle file needed to tokenize text.
+- `src/`: Utility functions in python.
 
 ## Contributing
 
