@@ -5,3 +5,6 @@ beautifulsoup4
 scikit-learn
 datasets
 tqdm
+gensim
+matplotlib
+pyLDAvis
