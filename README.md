@@ -27,7 +27,7 @@
 </div>
 
 ---
-This repository contains the code for hands-on sessions related to topic modeling. It is designed to help you understand the concepts and implementations of topic modeling techniques, including but not limited to LDA (Latent Dirichlet Allocation) and more advanced approaches based on word embeddings.
+This repository contains the code for hands-on sessions related to topic modeling. It is designed to help you understand the concepts and implementations of topic modeling techniques, including but not limited to LDA (Latent Dirichlet Allocation) and more advanced approaches based on word embeddings, such as BERTopic.
 
 ## Prerequisites
 
