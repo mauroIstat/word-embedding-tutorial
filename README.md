@@ -2,6 +2,7 @@
   Topic Modeling Lab
 </h1>
 <div align="center">
+  
   <a href="">![Static Badge](https://img.shields.io/badge/Word2Vec-blue)</a>
   <a href="">![Static Badge](https://img.shields.io/badge/Glove-green)</a>
   <a href="">![Static Badge](https://img.shields.io/badge/LDA-red)</a>
