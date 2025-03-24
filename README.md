@@ -66,7 +66,7 @@ The `requirements.txt` file includes the following libraries:
 ### Additional Resources
 
 - [Gensim Documentation](https://radimrehurek.com/gensim/)
-- [Matplotlib Documentation](https://matplotlib.org/)
+- [BERTopic Documentation]([https://matplotlib.org/](https://github.com/MaartenGr/BERTopic))
 
 ## Usage
 
